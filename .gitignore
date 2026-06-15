@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pt
+corpus/*
+!corpus/README.md
+corpus_raw/*
+!corpus_raw/README.md
+fliphtml5_urls.txt
+licensed_urls.txt
+corpus_prepared*/
+sources.json
+.DS_Store

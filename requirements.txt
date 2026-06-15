@@ -1,0 +1,5 @@
+torch>=2.3
+pennylane>=0.42
+pypdf>=5.0
+beautifulsoup4>=4.12
+pillow>=10.0

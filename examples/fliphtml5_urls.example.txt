@@ -1,0 +1,4 @@
+# Authorized FlipHTML5 mirrors, one URL per line.
+# Copy this file to fliphtml5_urls.txt, adjust as needed, then run:
+# python scripts/ingest_fliphtml5.py --manifest fliphtml5_urls.txt --out corpus --clean
+https://online.fliphtml5.com/piaso/fncp/#p=8
