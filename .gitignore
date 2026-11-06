@@ -12,3 +12,13 @@ licensed_urls.txt
 corpus_prepared*/
 sources.json
 .DS_Store
+
+# Local files and installed dependencies
+node_modules/
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+.nira/*.db
+.nira/*.db-*
